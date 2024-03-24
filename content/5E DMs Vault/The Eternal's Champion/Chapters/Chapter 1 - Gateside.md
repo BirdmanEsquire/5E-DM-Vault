@@ -1,3 +1,7 @@
+---
+title: Chapter 1 - Gateside
+---
+
 # Volunteer Camp
 
 The other volunteers appear to have thrown together a sizeable camp in short order in a clearing just beyond the gate. Small, two-person tents have been neatly arranged in lines for sleeping, and a circle of larger tents is grouped around a sizeable bonfire. Out of one of the larger tents you see a chimney arise and white smoke is billowing out. Smells like ribs. Biggs is arranging his blacksmithing tools around the tent next to it, and outside the next tent down Fiberwight is furiously scrawling notes on a giant piece of paper set upon a table.

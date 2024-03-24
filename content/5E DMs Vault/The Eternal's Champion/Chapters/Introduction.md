@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 
 The Kingdom of Eternia is abuzz with rumors about the mysterious disappearance of Lady Freya Richard the Determined. The King’s chosen champion and advisor—renowned for her discipline and generosity—is beloved by the citizenry and theories abound about her capture or untimely demise.
 

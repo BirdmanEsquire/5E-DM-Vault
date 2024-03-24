@@ -1,3 +1,7 @@
+---
+title: <% tp.file.title %>
+---
+
 # Part 1 - The Unassailable
 
 A 120-foot tall ship effortlessly cuts through the waves in the open ocean. Flags waving from the masts bear the crest of the Kingdom of Eternia in bright blue and gold, and the gilt name “Unassailable” shimmers across the starboard fore.
